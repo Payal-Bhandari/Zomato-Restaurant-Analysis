@@ -1,7 +1,6 @@
-# Zomato-Restaurant-Analysis
-Title: Miniproject on Zomato Bangalore Restaurant Analysis. 
+ 
 Problem Definition: Performing Explaratory Data Analysis and Regression Analysis to determining the rating of restaurants depending upon locality,
-food ,reviews.
+food ,reviews using Zomato Restaurant Dataset. 
 1)Prerequisite: Install Anaconda Python, Jupyter Notebook, Ubuntu 18.04.
 2)Software Requirement: Jupyter Notebook, Spyder on Ubuntu.
 3)Hardware Requirement: 2GB RAM, 500 GB HDD
