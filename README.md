@@ -1,5 +1,6 @@
  
-Problem Definition: Performing Explaratory Data Analysis and Regression Analysis to determining the rating of restaurants depending upon locality,
+# Zomato Restaurant Analysis
+Performing Explaratory Data Analysis and Regression Analysis to determining the rating of restaurants depending upon locality,
 food ,reviews using Zomato Restaurant Dataset. 
 1)Prerequisite: Install Anaconda Python, Jupyter Notebook, Ubuntu 18.04.
 2)Software Requirement: Jupyter Notebook, Spyder on Ubuntu.
